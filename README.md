@@ -4,6 +4,8 @@ My page is similler with Google page , it's divide to three parts top navbar , b
 Body of page will contain Google logo , search input and buttons. 
 # User Story
 * As a user, I want be able to enter the text i want inside search input
+# Demo
+you can view my page [here](https://wessaljawad95.github.io/Google/).
 
 # The way of installation the project to run it locally.
 1- Press at the link: [My repo](https://github.com/WessalJawad95/Google).<br>
